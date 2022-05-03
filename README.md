@@ -1,2 +1,2 @@
-# csharp-interview-questions 
-In this project, we will go through all the popular C# interview questions
+# csharp-update
+IIn this repo, we will test latest csharp updates and create sample code for them.
